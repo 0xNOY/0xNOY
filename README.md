@@ -29,5 +29,3 @@ Student at Tamagawa University, Japan.
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=ffffff)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 ![gimp](https://img.shields.io/badge/-gimp-5C5543?style=flat-square&logo=gimp&logoColor=ffffff)
-
----
