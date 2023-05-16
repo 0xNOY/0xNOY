@@ -49,15 +49,11 @@
 
 <div class="right" style="min-width: 200px; width: 350px; display: flex; flex-direction: column;">
 
-#### GitHub Stats
 
 ![0xNOY's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xNOY&show_icons=true&hide_border=true&count_private=true&hide_title=true)
 
-#### Top Languages
 
 ![0xNOY's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNOY&layout=compact&hide_title=true&hide_border=true)
-
-#### Spotify Status
 
 <div>
   <a id="spotify-status" href="https://spotify-github-profile.vercel.app/api/view?uid=cggwpg5pedjazrz21nu8x3m83&redirect=true">
