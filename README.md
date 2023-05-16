@@ -1,9 +1,10 @@
-# ![Hi 👋, I'm Naoya Takenaka.](imgs/header.avif)
+![Hi 👋, I'm Naoya Takenaka.](imgs/header.avif)
+
 
 Student at Tamagawa University, Japan.
 
 
-## Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
@@ -14,7 +15,7 @@ Student at Tamagawa University, Japan.
 ![Fish](https://img.shields.io/badge/-Fish-4AAE47?style=flat-square&logo=fish&logoColor=ffffff)
 
 
-## Software
+### Software
 
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)
 ![i3wm](https://img.shields.io/badge/-i3wm-1793D1?style=flat-square&logo=i3&logoColor=ffffff)
