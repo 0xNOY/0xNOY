@@ -1,4 +1,4 @@
-# ![Hi 👋, I'm Naoya Takenaka.](imgs/header.webp)
+# ![Hi 👋, I'm Naoya Takenaka.](imgs/header.avif)
 
 Student at Tamagawa University, Japan.
 
