@@ -1,7 +1,7 @@
 ![Hi 👋, I'm Naoya Takenaka.](imgs/header.avif)
 
 
-<div id="main-container">
+<div id="main-container" style="display: flex; flex-direction: row; justify-content: space-between;">
 <div>
 
 ## Interests
@@ -47,7 +47,7 @@
 
 </div>
 
-<div class="right">
+<div class="right" style="min-width: 200px; width: 350px; display: flex; flex-direction: column;">
 
 #### GitHub Stats
 
@@ -61,14 +61,14 @@
 
 <div>
   <a id="spotify-status" href="https://spotify-github-profile.vercel.app/api/view?uid=cggwpg5pedjazrz21nu8x3m83&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=cggwpg5pedjazrz21nu8x3m83&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true&bar_color=53b14f" alt="0xNOY's Spotify status" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=cggwpg5pedjazrz21nu8x3m83&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true&bar_color=53b14f" alt="0xNOY's Spotify status" style="background-color: #FFFFFF; border-radius: 4px;"/>
   </a>
 </div>
 
 </div>
 </div>
 
-<style>
+<!-- <style>
 #main-container {
   display: flex;
   flex-direction: row;
@@ -91,4 +91,4 @@
   background-color: #FFFFFF;
   border-radius: 4px;
 }
-</style>
+</style> -->
