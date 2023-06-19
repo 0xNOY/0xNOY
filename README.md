@@ -1,4 +1,4 @@
-![Hi, I'm Naoya Takenaka.](imgs/header.avif)
+![Hi, I'm Naoya Takenaka.](imgs/header.webp)
 
 ## Interests
 
